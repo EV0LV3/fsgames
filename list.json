@@ -2,18 +2,18 @@
   "Games": {
     "game": [
       {
-        "id": "1",
+        "id": "2273980",
         "Name": "Orcs Must Die Deathtrap",
         "version": "1.0.9",
-        "spath": "omdd",
+        "start": "Orcs Must Die! Deathtrap.exe",
         "gpath": "Orcs Must Die Deathtrap",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2273980/header.jpg"
       },
       {
-        "id": "2",
+        "id": "2300320",
         "Name": "Farming Simulator 25",
         "version": "1.6.0.0",
-        "spath": "fs25",
+        "start":"x64\FarmingSimulator2025Game.exe"
         "gpath": "Farming Simulator 25",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg"
       }
