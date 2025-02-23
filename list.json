@@ -16,6 +16,14 @@
         "start": "Farming Simulator 25\x64\FarmingSimulator2025Game.exe",
         "gpath": "Farming Simulator 25",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg"
+      },
+      {
+        "id": "2202120",
+        "Name": "63 Days",
+        "version": "11237",
+        "start": "",
+        "gpath": "63 Days",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2202120/header.jpg"
       }
     ]
   }
