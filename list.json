@@ -16,6 +16,14 @@
         "start": "x64\FarmingSimulator2025Game.exe",
         "gpath": "Farming Simulator 25",
         "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg"
+      },
+      {
+        "id": "1174180",
+        "Name": "Red Dead Redemption 2",
+        "version": "1.6.0.0",
+        "start": "x64\FarmingSimulator2025Game.exe",
+        "gpath": "Red Dead Redemption 2",
+        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg"
       }
     ]
   }
