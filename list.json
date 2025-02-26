@@ -4,6 +4,9 @@
       {
         "id": "2273980",
         "Name": "Orcs Must Die Deathtrap",
+        "description": "Step into the role of a powerful War Mage, defend the rift from the grotesque mob, and embrace the chaos of orc annihilation. The castle doors are thrown wide open to exciting new features.",
+        "space": "14.2 GB",
+        "updated": "18-02-2025",
         "version": "1.0.11",
         "start": "Orcs Must Die Deathtrap/Orcs Must Die! Deathtrap.exe",
         "gpath": "Orcs Must Die Deathtrap",
@@ -13,6 +16,10 @@
       {
         "id": "2300320",
         "Name": "Farming Simulator 25",
+        "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - it’s your farm, you decide!",
+        "space": "36.5 GB",
+        "updated": "11-02-2025",
+        "version": "1.0.11",
         "version": "1.6.0.0",
         "start": "Farming Simulator 25/x64/FarmingSimulator2025Game.exe",
         "gpath": "Farming Simulator 25",
