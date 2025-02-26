@@ -5,7 +5,7 @@
         "id": "2273980",
         "Name": "Orcs Must Die Deathtrap",
         "version": "1.0.11",
-        "start": "Orcs Must Die Deathtrap\Orcs Must Die! Deathtrap.exe",
+        "start": "Orcs Must Die Deathtrap/Orcs Must Die! Deathtrap.exe",
         "gpath": "Orcs Must Die Deathtrap",
         "image": "https://steamcdn-a.akamaihd.net/steam/apps/2273980/library_600x900.jpg"
       },
@@ -13,7 +13,7 @@
         "id": "2300320",
         "Name": "Farming Simulator 25",
         "version": "1.6.0.0",
-        "start": "Farming Simulator 25\x64\FarmingSimulator2025Game.exe",
+        "start": "Farming Simulator 25/x64/FarmingSimulator2025Game.exe",
         "gpath": "Farming Simulator 25",
         "image": "https://steamcdn-a.akamaihd.net/steam/apps/2300320/library_600x900.jpg"
       }
