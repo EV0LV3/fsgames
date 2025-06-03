@@ -2,18 +2,6 @@
   "Games": {
     "game": [
       {
-        "id": "2104890",
-        "Name": "RoadCraft",
-        "description": "As the leader of a company specialized in restoring sites devastated by natural disasters, use your construction machinery to restart the local industry. Clear debris and faulty equipment, rebuild roads and bridges damaged by weather, and much more!",
-        "space": "6.66 GB",
-        "updated": "04-02-2025",
-        "version": "MP NOT WORKING!",
-        "start": "RoadCraft/root/bin/pc/Roadcraft - Retail.exe",
-        "gpath": "RoadCraft",
-        "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2104890/library_hero.jpg?t=490110",
-        "image": "https://steamcdn-a.akamaihd.net/steam/apps/2104890/library_600x900.jpg"
-      },
-      {
         "id": "490110",
         "Name": "The Precinct",
         "description": "You are Officer Nick Cordell Jr. As a rookie beat cop fresh out of the Academy, you’re on the front line of defence for Averno’s citizens. Dive into a world of thrilling car chases, procedurally-generated crimes, and a healthy dose of 1980s noir as you protect the populace and solve the mystery of your father’s murder in the line of duty.",
@@ -26,16 +14,16 @@
         "image": "https://steamcdn-a.akamaihd.net/steam/apps/490110/library_600x900.jpg"
       },
       {
-        "id": "704270",
+        "id": "2300320",
         "Name": "Generation Zero®",
-        "description": "Generation Zero is a stealth-action shooter where you wage guerilla warfare against lethal mechanical enemies. Explore a vast open world map inspired by the Swedish Cold War era, take part in the resistance alone or with up to three friends in seamless co-op.",
-        "space": "6.66 GB",
-        "updated": "04-02-2025",
-        "version": "17963912",
-        "start": "GenerationZero/GenerationZero_F.exe",
-        "gpath": "GenerationZero",
-        "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/704270/library_hero.jpg?t=490110",
-        "image": "https://steamcdn-a.akamaihd.net/steam/apps/704270/library_600x900.jpg"
+        "description": "Farming Simulator 25 invites you to join the rewarding farm life. Whether you build your legacy single-handedly or cooperatively in multiplayer - it’s your farm, you decide!",
+        "space": "39 GB",
+        "updated": "27-05-2025",
+        "version": "1.9.0.1",
+        "start": "x64/FarmingSimulator2025Game.exe",
+        "gpath": "FarmingSimulator25",
+        "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/library_hero.jpg?t=490110",
+        "image": "https://steamcdn-a.akamaihd.net/steam/apps/2300320/library_600x900.jpg"
       }
     ]
   }
