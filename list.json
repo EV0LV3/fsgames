@@ -2,6 +2,18 @@
   "Games": {
     "game": [
       {
+        "id": "1941540",
+        "Name": "Mafia: The Old Country",
+        "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
+        "space": "6.66 GB",
+        "updated": "04-02-2025",
+        "version": "0.1",
+        "start": "Mafia The Old Country/MafiaTheOldCountry/Binaries/Win64/MafiaTheOldCountry.exe",
+        "gpath": "Mafia The Old Country",
+        "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1941540/library_hero.jpg?t=490110",
+        "image": "https://steamcdn-a.akamaihd.net/steam/apps/1941540/library_600x900.jpg"
+      },
+      {
         "id": "1190000",
         "Name": "Car Mechanic Simulator 2021",
         "description": "You are Officer Nick Cordell Jr. As a rookie beat cop fresh out of the Academy, you’re on the front line of defence for Averno’s citizens. Dive into a world of thrilling car chases, procedurally-generated crimes, and a healthy dose of 1980s noir as you protect the populace and solve the mystery of your father’s murder in the line of duty.",
