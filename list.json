@@ -2,6 +2,18 @@
   "Games": {
     "game": [
       {
+        "id": "3008130",
+        "Name": "Dying Light The Beast",
+        "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
+        "space": "58 GB",
+        "updated": "04-02-2025",
+        "version": "0.1",
+        "start": "Dying Light The Beast/ph_ft/work/bin/x64/DyingLightGame_TheBeast_x64_rwdi.exe",
+        "gpath": "Dying Light The Beast",
+        "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3008130/library_hero.jpg?t=490110",
+        "image": "https://steamcdn-a.akamaihd.net/steam/apps/3008130/library_600x900.jpg"
+      },
+      {
         "id": "1941540",
         "Name": "Mafia: The Old Country",
         "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
